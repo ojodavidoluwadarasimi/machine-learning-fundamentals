@@ -10,7 +10,7 @@ My learning repository for machine learning, built while studying Software Engin
 
 | Project | What it covers | Status |
 |---------|----------------|--------|
-| [01 Linear Regression](01-linear-regression) | Predicting house prices from size, from scratch and with scikit-learn | Done |
+| 01 Linear Regression | Predicting house prices from size, from scratch and with scikit-learn | Done 
 | 02 Classification | Predicting categories | Planned |
 | 03 Model Evaluation | Train/test splits, error metrics, overfitting | Planned |
 
